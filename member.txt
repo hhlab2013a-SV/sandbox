@@ -2,3 +2,6 @@ MEMBER
 
 - ohtacaesar
     - ruby, php, Java
+
+- ohtacaesar2
+    - ねむい
